@@ -1,0 +1,27 @@
+{
+  "name": "jfp",
+  "version": "1.0.0",
+  "description": "> 个人社区项目\r # 参考\r [《koa2进阶学习笔记》](http://cnodejs.org/topic/58ac640e7872ea0864fedf90)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIGDXX/justForPlay.git"
+  },
+  "keywords": [
+    "nodejs",
+    "koa",
+    "vue"
+  ],
+  "author": "vigdxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VIGDXX/justForPlay/issues"
+  },
+  "homepage": "https://github.com/VIGDXX/justForPlay#readme",
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
+}
